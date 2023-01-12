@@ -32,5 +32,7 @@ console.log(typeof d);
 console.log(typeof e);
 console.log(typeof f);
 
-
-
+// Otros operadores
+console.log("----------------");
+let g = 3**4;
+console.log(g);
